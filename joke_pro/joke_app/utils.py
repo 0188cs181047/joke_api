@@ -1,0 +1,1 @@
+joke_urls = "https://v2.jokeapi.dev/joke/Any?amount=100"
